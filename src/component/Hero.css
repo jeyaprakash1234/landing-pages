@@ -1,0 +1,12 @@
+.hero {
+    padding: 100px 0;
+    background: #f8f9fa;
+}
+
+.hero h2 {
+    margin-bottom: 20px;
+}
+
+.hero p {
+    margin-bottom: 30px;
+}

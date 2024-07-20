@@ -1,0 +1,15 @@
+.feature-item {
+    background: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.feature-item h3 {
+    margin-top: 0;
+}
+
+.feature-item p {
+    margin: 10px 0 0;
+}
